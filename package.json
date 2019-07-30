@@ -1,0 +1,26 @@
+{
+  "name": "react-native-ios-file-opener",
+  "version": "1.0.0",
+  "private": false,
+  "description": "iOS file opener for React Native.",
+  "main": "src/index.js",
+  "scripts": {
+    "patch": "npm version patch -m 'Bump version %s';git push origin master --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodVampire/react-native-ios-file-opener.git"
+  },
+  "keywords": [
+    "React-Native",
+    "file",
+    "file-opener"
+  ],
+  "author": "GodVampire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GodVampire/react-native-ios-file-opener/issues",
+    "email": "mashuai_hy@163.com"
+  },
+  "homepage": "https://github.com/GodVampire/react-native-ios-file-opener#readme"
+}
