@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "description": "iOS file opener for React Native.",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "patch": "npm version patch -m 'Bump version %s';git push origin master --tags"
   },
